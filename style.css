@@ -1,0 +1,7 @@
+body{text-align:center;}
+button{background-color:rgb(47, 214, 244);
+        color:black;
+        border-radius: 5px;
+        border: none;}
+button:hover{background-color:rgb(21, 147, 169);
+            color:white;}
